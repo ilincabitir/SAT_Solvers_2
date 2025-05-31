@@ -1,0 +1,31 @@
+Overview:
+
+This program is a SAT (Satisfiability solver that can be used to solve Boolean satisfiability problems through different methods (Resolution, DP ,DPLL).
+The user can choose which solver to use and then apply it to a set of clauses read by the program from a text file.
+
+Steps in using the program:
+
+1. Prepare a file containing a clause set in DIMACS format. The file should list the clauses of the CNF formula you want to solve.
+
+Example:
+(file.txt)
+1 -2 3 0
+-1 2 0
+2 -3 0
+
+2. Then open the main solver python file (SAT solvers main.py) and load you CNF file with its specific path.
+Example: 
+file_name = "file.txt"
+
+3. After loading the file, choose which solver/s you want to use. When receiving the program, all of the solver function calls are commented, so just remove the comment from the wanted function calls. 
+
+4.Optional: If you want to see what the program does in more detail (for debugging purposes), you can set the p parameter to 'True' in the solver functions. When the p parameter is set to true, the program outputs everything on the screen along with helpful messages.
+Example:
+resolution_time(clauses, file_name, p=True)
+dp_time(clauses, file_name, p=True)
+dpll_time(clauses, file_name, splitting_method, p=True)
+
+5. The output (SATISFIABLE/UNSATISFIABLE) will be printed on the screen for each solver and the time performances will be stored in the file test_results.txt.
+
+Conclusion:
+To use the SAT solver program, simply load your CNF file, choose the solver, and run it. You can also adjust the verbosity and experiment with different splitting methods for DPLL. The results will tell you if the formula is satisfiable or unsatisfiable and how long it took to solve.

@@ -1,0 +1,80 @@
+ Resolution,  test cases/Small Tests/C1.1.txt, 0.000327 seconds
+------------
+ DP,  test cases/Small Tests/C1.1.txt, 0.000283 seconds
+------------
+ DPLL first_literal,  test cases/Small Tests/C1.1.txt, 0.000060 seconds
+------------
+ DPLL random_literal,  test cases/Small Tests/C1.1.txt, 0.000084 seconds
+------------
+ DPLL most_frequent_literal,  test cases/Small Tests/C1.1.txt, 0.000111 seconds
+------------
+ DPLL dlis,  test cases/Small Tests/C1.1.txt, 0.000069 seconds
+------------
+ DPLL jeroslow_wang,  test cases/Small Tests/C1.1.txt, 0.000083 seconds
+------------
+ DPLL moms,  test cases/Small Tests/C1.1.txt, 0.000090 seconds
+------------
+ Resolution,  test cases/Small Tests/C1.2.txt, 0.000563 seconds
+------------
+ DP,  test cases/Small Tests/C1.2.txt, 0.000036 seconds
+------------
+ DPLL first_literal,  test cases/Small Tests/C1.2.txt, 0.000029 seconds
+------------
+ DPLL random_literal,  test cases/Small Tests/C1.2.txt, 0.000028 seconds
+------------
+ DPLL most_frequent_literal,  test cases/Small Tests/C1.2.txt, 0.000031 seconds
+------------
+ DPLL dlis,  test cases/Small Tests/C1.2.txt, 0.000036 seconds
+------------
+ DPLL jeroslow_wang,  test cases/Small Tests/C1.2.txt, 0.000033 seconds
+------------
+ DPLL moms,  test cases/Small Tests/C1.2.txt, 0.000023 seconds
+------------
+ Resolution,  test cases/Small Tests/C1.3.txt, 0.000409 seconds
+------------
+ DP,  test cases/Small Tests/C1.3.txt, 0.000034 seconds
+------------
+ DPLL first_literal,  test cases/Small Tests/C1.3.txt, 0.000028 seconds
+------------
+ DPLL random_literal,  test cases/Small Tests/C1.3.txt, 0.000034 seconds
+------------
+ DPLL most_frequent_literal,  test cases/Small Tests/C1.3.txt, 0.000028 seconds
+------------
+ DPLL dlis,  test cases/Small Tests/C1.3.txt, 0.000023 seconds
+------------
+ DPLL jeroslow_wang,  test cases/Small Tests/C1.3.txt, 0.000026 seconds
+------------
+ DPLL moms,  test cases/Small Tests/C1.3.txt, 0.000021 seconds
+------------
+ Resolution,  test cases/Small Tests/C1.4.txt, 0.000161 seconds
+------------
+ DP,  test cases/Small Tests/C1.4.txt, 0.000026 seconds
+------------
+ DPLL first_literal,  test cases/Small Tests/C1.4.txt, 0.000025 seconds
+------------
+ DPLL random_literal,  test cases/Small Tests/C1.4.txt, 0.000019 seconds
+------------
+ DPLL most_frequent_literal,  test cases/Small Tests/C1.4.txt, 0.000021 seconds
+------------
+ DPLL dlis,  test cases/Small Tests/C1.4.txt, 0.000024 seconds
+------------
+ DPLL jeroslow_wang,  test cases/Small Tests/C1.4.txt, 0.000028 seconds
+------------
+ DPLL moms,  test cases/Small Tests/C1.4.txt, 0.000021 seconds
+------------
+ Resolution,  test cases/Small Tests/C1.5.txt, 0.001784 seconds
+------------
+ DP,  test cases/Small Tests/C1.5.txt, 0.000375 seconds
+------------
+ DPLL first_literal,  test cases/Small Tests/C1.5.txt, 0.000046 seconds
+------------
+ DPLL random_literal,  test cases/Small Tests/C1.5.txt, 0.000059 seconds
+------------
+ DPLL most_frequent_literal,  test cases/Small Tests/C1.5.txt, 0.000105 seconds
+------------
+ DPLL dlis,  test cases/Small Tests/C1.5.txt, 0.000070 seconds
+------------
+ DPLL jeroslow_wang,  test cases/Small Tests/C1.5.txt, 0.000075 seconds
+------------
+ DPLL moms,  test cases/Small Tests/C1.5.txt, 0.000064 seconds
+------------
